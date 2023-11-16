@@ -1,0 +1,37 @@
+.container {
+	width: 1200px;	
+	margin: auto;
+}
+.photo {
+	height: 388px;
+	width: 323px;
+	margin-top: 200px;
+	/*margin-left: 40px;
+	/*display: block;*/
+}
+
+
+.text {
+	margin-top: 28px;
+	/*margin-left: 18px;*/
+	font-size: 2em;
+
+}
+
+.text-2 {
+	font-size: 1.3em;
+	margin-top: 84px;
+}
+
+.btn {
+	margin-top: -165px;
+	margin-left: 50px;
+}
+#block {
+	margin-top: 200px;
+	background-color:#eaedf2;
+	height: 397px;
+	width: 630px;
+	border-radius: 15px;
+	padding-top: 10px;
+}
