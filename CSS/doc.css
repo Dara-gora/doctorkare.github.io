@@ -6,9 +6,6 @@
 }
 .photo {
 	width: 75%;
-	/*margin-top: 200px;
-	/*margin-left: 40px;
-	/*display: block;*/
 }
 
 
@@ -161,10 +158,9 @@
 }
 
 .border {
-    border: 5px solid #1b65b0!important
+    border: 5px solid #a576e8c4!important
 }
 
 .rounded {
     border-radius: 1.25rem!important;
 }
-.
