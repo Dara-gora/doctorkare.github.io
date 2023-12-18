@@ -1,7 +1,8 @@
 #topLine {
 	position: fixed;
 	top: 0;
-	right: 0;
+	left: 0;
+	width: 100vw;
 	background:#eaedf2;
 }
 .photo {
@@ -131,7 +132,7 @@
 }
 
 .color {
-	background-image: url(../IMG/enzyme.png);
+	/*background-image: url(../IMG/enzyme.png);*/
 	background-size: 10em;
 	background-repeat: no-repeat;
 	background-position: 6% 100%;*/
