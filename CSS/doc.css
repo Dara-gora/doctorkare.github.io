@@ -124,11 +124,15 @@
 	background-image: url(../IMG/right-ar.png);
 	background-position: 100% 50%;
 	background-repeat: no-repeat;
-	background-size: 3em 20%;
+	background-size: 3em 20%;  
 	}
 
 .carousel-inner {
-	height: 22em;
+	height: 29em;
+}
+
+.carousel-inner-big {
+	font-size: 0.5em;
 }
 
 .color {
